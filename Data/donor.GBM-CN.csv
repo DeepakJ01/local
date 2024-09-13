@@ -1,0 +1,81 @@
+icgc_donor_id,project_code,study_donor_involved_in,submitted_donor_id,donor_sex,donor_vital_status,disease_status_last_followup,donor_relapse_type,donor_age_at_diagnosis,donor_age_at_enrollment,donor_age_at_last_followup,donor_relapse_interval,donor_diagnosis_icd10,donor_tumour_staging_system_at_diagnosis,donor_tumour_stage_at_diagnosis,donor_tumour_stage_at_diagnosis_supplemental,donor_survival_time,donor_interval_of_last_followup,prior_malignancy,cancer_type_prior_malignancy,cancer_history_first_degree_relative
+DO229132,GBM-CN,,GBM-CN-XXX-GB013,female,deceased,relapse,,,,46,176,,,,,355,180,unknown,,unknown
+DO229136,GBM-CN,,GBM-CN-XXX-GB014,male,deceased,relapse,,,,53,624,,,,,883,180,unknown,,unknown
+DO229142,GBM-CN,,GBM-CN-XXX-GB015,female,deceased,relapse,,,,58,915,,,,,1183,180,unknown,,unknown
+DO229145,GBM-CN,,GBM-CN-XXX-GB016,female,alive,complete remission,,,,36,,,,,,2085,2085,unknown,,unknown
+DO229150,GBM-CN,,GBM-CN-XXX-GB017,male,deceased,relapse,,,,53,36,,,,,97,97,unknown,,unknown
+DO229154,GBM-CN,,GBM-CN-XXX-GB018,female,alive,complete remission,,,,48,,,,,,1367,1367,unknown,,unknown
+DO229158,GBM-CN,,GBM-CN-XXX-GB019,female,deceased,relapse,,,,44,433,,,,,525,180,unknown,,unknown
+DO229161,GBM-CN,,GBM-CN-XXX-GB020,female,alive,complete remission,,,,27,,,,,,1822,1822,unknown,,unknown
+DO229174,GBM-CN,,GBM-CN-XXX-GB021,male,deceased,relapse,,,,43,47,,,,,85,85,unknown,,unknown
+DO229182,GBM-CN,,GBM-CN-XXX-GB022,female,deceased,relapse,,,,17,301,,,,,417,180,unknown,,unknown
+DO229186,GBM-CN,,GBM-CN-XXX-GB023,female,deceased,relapse,,,,62,420,,,,,605,180,unknown,,unknown
+DO229189,GBM-CN,,GBM-CN-XXX-GB024,male,deceased,relapse,,,,45,311,,,,,447,180,unknown,,unknown
+DO229193,GBM-CN,,GBM-CN-XXX-GB025,female,deceased,relapse,,,,47,993,,,,,1643,180,unknown,,unknown
+DO229197,GBM-CN,,GBM-CN-XXX-GB026,male,deceased,relapse,,,,21,293,,,,,370,180,unknown,,unknown
+DO229198,GBM-CN,,GBM-CN-XXX-GB027,male,deceased,relapse,,,,35,516,,,,,893,180,unknown,,unknown
+DO229106,GBM-CN,,GBM-CN-XXX-GB002,female,alive,complete remission,,,,26,,,,,,1756,1756,unknown,,unknown
+DO229105,GBM-CN,,GBM-CN-XXX-GB001,male,deceased,complete remission,,,,59,,,,,,1766,,unknown,,unknown
+DO229108,GBM-CN,,GBM-CN-XXX-GB004,female,deceased,relapse,,,,60,167,,,,,249,180,unknown,,unknown
+DO229107,GBM-CN,,GBM-CN-XXX-GB003,male,alive,complete remission,,,,37,,,,,,2092,2092,unknown,,unknown
+DO229109,GBM-CN,,GBM-CN-XXX-GB005,male,deceased,relapse,,,,38,518,,,,,772,180,unknown,,unknown
+DO229118,GBM-CN,,GBM-CN-XXX-GB009,male,deceased,relapse,,,,54,274,,,,,396,180,unknown,,unknown
+DO229111,GBM-CN,,GBM-CN-XXX-GB007,male,deceased,relapse,,,,47,293,,,,,440,180,unknown,,unknown
+DO229110,GBM-CN,,GBM-CN-XXX-GB006,male,deceased,relapse,,,,59,329,,,,,567,180,unknown,,unknown
+DO229115,GBM-CN,,GBM-CN-XXX-GB008,male,alive,complete remission,,,,40,,,,,,1869,1869,unknown,,unknown
+DO229129,GBM-CN,,GBM-CN-XXX-GB012,male,alive,complete remission,,,,46,,,,,,1723,1723,unknown,,unknown
+DO229124,GBM-CN,,GBM-CN-XXX-GB010,male,deceased,relapse,,,,64,402,,,,,451,180,unknown,,unknown
+DO229125,GBM-CN,,GBM-CN-XXX-GB011,male,alive,complete remission,,,,32,,,,,,1525,1525,unknown,,unknown
+DO229251,GBM-CN,,GBM-CN-XXX-GB046,male,deceased,relapse,,,,40,453,,,,,861,180,unknown,,unknown
+DO229254,GBM-CN,,GBM-CN-XXX-GB047,male,alive,complete remission,,,,43,,,,,,1878,1878,unknown,,unknown
+DO229258,GBM-CN,,GBM-CN-XXX-GB048,male,deceased,relapse,,,,72,104,,,,,280,180,unknown,,unknown
+DO229260,GBM-CN,,GBM-CN-XXX-GB049,female,alive,relapse,,,,28,180,,,,,180,180,unknown,,unknown
+DO229262,GBM-CN,,GBM-CN-XXX-GB050,female,deceased,relapse,,,,35,270,,,,,399,180,unknown,,unknown
+DO229265,GBM-CN,,GBM-CN-XXX-GB051,female,deceased,relapse,,,,55,327,,,,,503,180,unknown,,unknown
+DO229269,GBM-CN,,GBM-CN-XXX-GB052,female,deceased,relapse,,,,65,377,,,,,498,180,unknown,,unknown
+DO229271,GBM-CN,,GBM-CN-XXX-GB053,female,alive,complete remission,,,,38,,,,,,2214,2214,unknown,,unknown
+DO229274,GBM-CN,,GBM-CN-XXX-GB054,male,deceased,relapse,,,,34,513,,,,,850,180,unknown,,unknown
+DO229278,GBM-CN,,GBM-CN-XXX-GB056,male,deceased,relapse,,,,48,388,,,,,531,180,unknown,,unknown
+DO229277,GBM-CN,,GBM-CN-XXX-GB055,male,deceased,relapse,,,,40,511,,,,,593,180,unknown,,unknown
+DO229279,GBM-CN,,GBM-CN-XXX-GB057,female,deceased,relapse,,,,54,159,,,,,276,180,unknown,,unknown
+DO229280,GBM-CN,,GBM-CN-XXX-GB058,male,deceased,relapse,,,,28,463,,,,,732,180,unknown,,unknown
+DO229282,GBM-CN,,GBM-CN-XXX-GB059,male,deceased,relapse,,,,30,640,,,,,1036,180,unknown,,unknown
+DO229285,GBM-CN,,GBM-CN-XXX-GB060,male,deceased,relapse,,,,44,259,,,,,382,180,unknown,,unknown
+DO229287,GBM-CN,,GBM-CN-XXX-GB061,male,deceased,relapse,,,,41,679,,,,,880,180,unknown,,unknown
+DO229288,GBM-CN,,GBM-CN-XXX-GB062,male,deceased,relapse,,,,38,381,,,,,712,180,unknown,,unknown
+DO229290,GBM-CN,,GBM-CN-XXX-GB063,female,alive,complete remission,,,,41,,,,,,1602,1602,unknown,,unknown
+DO229291,GBM-CN,,GBM-CN-XXX-GB064,female,alive,complete remission,,,,31,,,,,,1602,1602,unknown,,unknown
+DO229294,GBM-CN,,GBM-CN-XXX-GB065,female,alive,complete remission,,,,29,,,,,,1955,1955,unknown,,unknown
+DO229296,GBM-CN,,GBM-CN-XXX-GB066,female,deceased,relapse,,,,48,63,,,,,204,180,unknown,,unknown
+DO229298,GBM-CN,,GBM-CN-XXX-GB067,male,deceased,relapse,,,,51,795,,,,,1094,180,unknown,,unknown
+DO229206,GBM-CN,,GBM-CN-XXX-GB030,male,deceased,complete remission,,,,2,,,,,,437,,unknown,,unknown
+DO229209,GBM-CN,,GBM-CN-XXX-GB031,male,deceased,relapse,,,,52,228,,,,,280,180,unknown,,unknown
+DO229200,GBM-CN,,GBM-CN-XXX-GB028,male,deceased,relapse,,,,59,171,,,,,217,180,unknown,,unknown
+DO229203,GBM-CN,,GBM-CN-XXX-GB029,male,deceased,relapse,,,,25,765,,,,,1147,180,unknown,,unknown
+DO229215,GBM-CN,,GBM-CN-XXX-GB034,male,alive,relapse,,,,36,180,,,,,180,180,unknown,,unknown
+DO229219,GBM-CN,,GBM-CN-XXX-GB035,male,deceased,relapse,,,,59,242,,,,,398,180,unknown,,unknown
+DO229212,GBM-CN,,GBM-CN-XXX-GB032,male,alive,complete remission,,,,50,,,,,,2218,2218,unknown,,unknown
+DO229214,GBM-CN,,GBM-CN-XXX-GB033,male,alive,complete remission,,,,40,,,,,,1625,1625,unknown,,unknown
+DO229226,GBM-CN,,GBM-CN-XXX-GB038,male,deceased,relapse,,,,47,279,,,,,361,180,unknown,,unknown
+DO229223,GBM-CN,,GBM-CN-XXX-GB037,male,deceased,relapse,,,,56,294,,,,,436,180,unknown,,unknown
+DO229222,GBM-CN,,GBM-CN-XXX-GB036,male,deceased,relapse,,,,48,388,,,,,530,180,unknown,,unknown
+DO229239,GBM-CN,,GBM-CN-XXX-GB043,female,deceased,relapse,,,,28,1427,,,,,2133,180,unknown,,unknown
+DO229231,GBM-CN,,GBM-CN-XXX-GB039,male,alive,complete remission,,,,42,,,,,,1753,1753,unknown,,unknown
+DO229233,GBM-CN,,GBM-CN-XXX-GB040,male,deceased,relapse,,,,43,462,,,,,571,180,unknown,,unknown
+DO229236,GBM-CN,,GBM-CN-XXX-GB042,male,deceased,relapse,,,,49,683,,,,,1331,180,unknown,,unknown
+DO229235,GBM-CN,,GBM-CN-XXX-GB041,female,alive,complete remission,,,,40,,,,,,2037,2037,unknown,,unknown
+DO229243,GBM-CN,,GBM-CN-XXX-GB044,male,alive,complete remission,,,,59,,,,,,1372,1372,unknown,,unknown
+DO229247,GBM-CN,,GBM-CN-XXX-GB045,male,alive,complete remission,,,,38,,,,,,2220,2220,unknown,,unknown
+DO229304,GBM-CN,,GBM-CN-XXX-GB070,male,deceased,relapse,,,,28,822,,,,,1364,180,unknown,,unknown
+DO229306,GBM-CN,,GBM-CN-XXX-GB071,male,deceased,relapse,,,,40,310,,,,,543,180,unknown,,unknown
+DO229308,GBM-CN,,GBM-CN-XXX-GB073,female,deceased,relapse,,,,59,676,,,,,841,180,unknown,,unknown
+DO229307,GBM-CN,,GBM-CN-XXX-GB072,female,deceased,relapse,,,,51,103,,,,,196,180,unknown,,unknown
+DO229309,GBM-CN,,GBM-CN-XXX-GB074,female,deceased,relapse,,,,36,185,,,,,304,180,unknown,,unknown
+DO229300,GBM-CN,,GBM-CN-XXX-GB068,female,alive,relapse,,,,65,180,,,,,180,180,unknown,,unknown
+DO229301,GBM-CN,,GBM-CN-XXX-GB069,male,alive,complete remission,,,,31,,,,,,1567,1567,unknown,,unknown
+DO229315,GBM-CN,,GBM-CN-XXX-GB080,male,alive,complete remission,,,,40,,,,,,2257,2257,unknown,,unknown
+DO229314,GBM-CN,,GBM-CN-XXX-GB079,male,deceased,relapse,,,,17,1411,,,,,1670,180,unknown,,unknown
+DO229311,GBM-CN,,GBM-CN-XXX-GB076,male,alive,complete remission,,,,42,,,,,,1738,1738,unknown,,unknown
+DO229310,GBM-CN,,GBM-CN-XXX-GB075,male,deceased,relapse,,,,61,155,,,,,248,180,unknown,,unknown
+DO229313,GBM-CN,,GBM-CN-XXX-GB078,male,alive,complete remission,,,,2,,,,,,1975,1975,unknown,,unknown
+DO229312,GBM-CN,,GBM-CN-XXX-GB077,female,deceased,relapse,,,,31,539,,,,,761,180,unknown,,unknown
